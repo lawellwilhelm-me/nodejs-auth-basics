@@ -14,10 +14,12 @@
   "type": "commonjs",
   "dependencies": {
     "bcrypt": "^6.0.0",
+    "cloudinary": "^2.9.0",
     "dotenv": "^17.2.4",
     "express": "^5.2.1",
     "jsonwebtoken": "^9.0.3",
-    "mongoose": "^9.2.0"
+    "mongoose": "^9.2.0",
+    "multer": "^2.0.2"
   },
   "devDependencies": {
     "install": "^0.13.0",
